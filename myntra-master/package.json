@@ -1,0 +1,16 @@
+{
+    "name": "myntra-clone",
+    "version": "1.0.0",
+    "description": "A clone of the Myntra website",
+    "main": "index.js",
+    "scripts": {
+      "start": "live-server --open=Landingpage/index.html",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "sumitbokshi",
+    "license": "ISC",
+    "dependencies": {
+      "live-server": "^1.2.1"
+    },
+    "devDependencies": {}
+  }
